@@ -2,7 +2,7 @@ baseURL = "https://younger98.github.io/"
 languageCode = "zh-tw"
 title = "IT宅日常"
 theme = "mainroad"
-disqusShortname = "younger98-github-io"
+disqusShortname = "younger98.github.io"
 
 [Params]
   subtitle = "Younger (Younger Yang)" # 部落格的次標題
