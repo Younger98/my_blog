@@ -1,3 +1,9 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = https://github.com/Vimux/Mainroad.git
+[submodule "younger98.github.io"]
+	path = younger98.github.io
+	url = https://github.com/Younger98/younger98.github.io.git
+[submodule "public"]
+	path = public
+	url = https://github.com/Younger98/younger98.github.io.git
